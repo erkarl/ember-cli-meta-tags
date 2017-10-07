@@ -7,6 +7,6 @@ export function initialize(instance) {
 }
 
 export default {
-  name: 'head-tags',
+  name: 'ember-cli-page-title-head-tags',
   initialize: initialize
 };
